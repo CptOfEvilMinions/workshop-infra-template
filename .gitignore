@@ -1,0 +1,5 @@
+terraform/s3_state_bucket/.terraform
+terraform/s3_state_bucket/.terraform.lock.hcl
+terraform/.terraform.lock.hcl
+terraform/.terraform
+terraform/ssh_keys/*
